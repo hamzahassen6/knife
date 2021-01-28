@@ -13,6 +13,8 @@ TagManager:
   - UI
   - 
   - 
+  - knife
+  - circle
   - 
   - 
   - 
@@ -24,9 +26,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - color
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: circle
+    uniqueID: 2279058593
+    locked: 0
+  - name: knife
+    uniqueID: 3299575117
     locked: 0
